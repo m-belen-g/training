@@ -1,0 +1,12 @@
+body {background: #DAE2F8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #D6A4A4, #DAE2F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+margin:10px;
+}
+.container {padding:20px; margin:30px}
+h1 {text-align: center;font-style:italic;}
+
+div.container {border-color:rgb(6, 5, 7); border-style:solid;border-width: 1px; border-radius: 1em; padding: 10px}
+
+div.progress {margin-top: 1.5em;}
+
